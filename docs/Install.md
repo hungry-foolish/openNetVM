@@ -63,6 +63,7 @@ Set up Environment
 
 3. Set environment variable RTE_SDK to the path of the DPDK library.  Make sure that you are in the DPDK directory
     ```sh
+    cd dpdk
     echo export RTE_SDK=$(pwd) >> ~/.bashrc
     ```
 
